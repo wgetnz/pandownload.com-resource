@@ -1,1 +1,1 @@
-"# pandownload.com-resource" 
+PanDownload.com 资源文件
